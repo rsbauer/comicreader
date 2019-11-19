@@ -16,7 +16,14 @@ This is a Marvel comic book reader prototype.  It's goal is to demonstrate query
     * Realm's framework adds additional size to the app's binary
     * Any object which consumes a Realm derived model must import and have knowledge about Realm
 * Network API uses Apple's NSURLSession
+* UI kept plain and simple to focus on app architecture 
 
+
+### List View
+![ListViewController](https://github.com/rsbauer/comicreader/tree/master/images/ListViewController.png)
+
+### List View
+![DetailViewController](https://github.com/rsbauer/comicreader/tree/master/images/DetailViewController.png)
 
 ### Getting Started
 
@@ -53,10 +60,6 @@ From Xcode, select the Test Navigator and select all tests or individual tests.
 ## Deployment
 
 Deployments are ad hoc at this time.
-
-## Authors
-
-* **Robert Bauer**
 
 ### License
 
