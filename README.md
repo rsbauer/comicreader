@@ -18,12 +18,9 @@ This is a Marvel comic book reader prototype.  It's goal is to demonstrate query
 * Network API uses Apple's NSURLSession
 * UI kept plain and simple to focus on app architecture 
 
-
-### List View
-<img src="https://raw.githubusercontent.com/rsbauer/comicreader/master/images/ListViewController.png" width="300px">
-
-### Detail View
-<img src="https://raw.githubusercontent.com/rsbauer/comicreader/master/images/DetailViewController.png" width="300px">
+List View | Detail View
+--- | --- 
+<img src="https://raw.githubusercontent.com/rsbauer/comicreader/master/images/ListViewController.png" width="300px"> | <img src="https://raw.githubusercontent.com/rsbauer/comicreader/master/images/DetailViewController.png" width="300px">
 
 ### Getting Started
 
