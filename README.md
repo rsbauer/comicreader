@@ -36,6 +36,16 @@ If desired, pods can be installed: (this requiers CocoaPods to be installed)
 
 Before starting, you will need Cocoapods installed.  
 
+You will also need a Marvel public and private API key.  This may be had by logging in to https://developer.marvel.com/.  
+
+With the MARVEL public and private keys, place them in your ~/.bash_profile as 
+```
+export MARVEL_PRIVATE_KEY="[PRIVATE KEY HERE]"
+export MARVEL_PUBLIC_KEY="[PUBLIC KEY HERE]"
+```
+
+Alternatively, update the `publicKey` and `privateKey` variables with the appropriate keys in NetworkProvider.swift's init().
+
 1. Clone this repo
 
   `git clone [this repo url]`
