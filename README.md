@@ -20,10 +20,10 @@ This is a Marvel comic book reader prototype.  It's goal is to demonstrate query
 
 
 ### List View
-![ListViewController](https://raw.githubusercontent.com/rsbauer/comicreader/master/images/ListViewController.png | width=200)
+![ListViewController](https://raw.githubusercontent.com/rsbauer/comicreader/master/images/ListViewController.png|width=200)
 
 ### List View
-![DetailViewController](https://raw.githubusercontent.com/rsbauer/comicreader/master/images/DetailViewController.png | width=200)
+![DetailViewController](https://raw.githubusercontent.com/rsbauer/comicreader/master/images/DetailViewController.png)
 
 ### Getting Started
 
