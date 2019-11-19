@@ -1,0 +1,386 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2019 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2019 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2019 MARVEL</a>",
+  "etag": "17a2c023240197976f7ed1168ba935a27561fa70",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 3,
+    "count": 3,
+    "results": [
+      {
+        "id": 12345,
+        "digitalId": 0,
+        "title": "First Title",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-11-01T13:14:51-0400",
+        "isbn": "978-1-302-91890-3",
+        "upc": "",
+        "diamondCode": "MAY190939",
+        "ean": "9781302 918903 52499",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 160,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76056",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/76056/iron_man_extremis_marvel_select_hardcover?utm_campaign=apiRef&utm_source=328955d262c3bb18f49234ef76a1501e"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27289",
+          "name": "Iron Man: Extremis Marvel Select (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-11-06T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-06-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5db85ca74e760",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5db85ca74e760",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76056/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+              "name": "Adi Granov",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76056/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76056/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168980",
+              "name": "cover from IRON MAN: EXTREMIS MARVEL SELECT HC (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/168981",
+              "name": "story from IRON MAN: EXTREMIS MARVEL SELECT HC (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76056/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 76719,
+        "digitalId": 0,
+        "title": "Venom by Donny Cates Vol. 1 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-11-01T13:38:27-0400",
+        "isbn": "978-1-302-91967-2",
+        "upc": "",
+        "diamondCode": "MAY190950",
+        "ean": "9781302 919672 53499",
+        "issn": "2643-9042",
+        "format": "Hardcover",
+        "pageCount": 280,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76719",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/76719/venom_by_donny_cates_vol_1_hardcover?utm_campaign=apiRef&utm_source=328955d262c3bb18f49234ef76a1501e"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/VENOM-BY-DONNY-CATES-VOL-1-HC-0/digital-comic/53046?utm_campaign=apiRef&utm_source=328955d262c3bb18f49234ef76a1501e"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27541",
+          "name": "Venom by Donny Cates Vol. 1 (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-11-06T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-06-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5db85c8d92013",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5db85c8d92013",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76719/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+              "name": "Donny Cates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10445",
+              "name": "Iban Coello",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+              "name": "Ryan Stegman",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76719/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76719/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170310",
+              "name": "cover from VENOM BY DONNY CATES VOL. 1 HC (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/170311",
+              "name": "story from VENOM BY DONNY CATES VOL. 1 HC (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/76719/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 79505,
+        "digitalId": 0,
+        "title": "Official Handbook Of The Marvel Universe Omnibus (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2019-11-01T13:21:28-0400",
+        "isbn": "978-1-302-92060-9",
+        "upc": "",
+        "diamondCode": "MAY190941",
+        "ean": "9781302 920609 57500",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 576,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/79505",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/79505/official_handbook_of_the_marvel_universe_omnibus_hardcover?utm_campaign=apiRef&utm_source=328955d262c3bb18f49234ef76a1501e"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/28151",
+          "name": "Official Handbook Of The Marvel Universe Omnibus (2019)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-11-06T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-06-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 75
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5db85ca120c27",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5db85ca120c27",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/79505/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4451",
+              "name": "Peter Sanderson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13100",
+              "name": "Jeph York",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/79505/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/79505/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/176046",
+              "name": "cover from OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE OMNIBUS HC (2019) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/176047",
+              "name": "story from OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE OMNIBUS HC (2019) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/79505/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
