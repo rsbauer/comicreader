@@ -1,0 +1,7 @@
+.DS_Store
+build/
+xcuserdata
+ComicReader.xcodeproj/project.xcworkspace/xcshareddata/*
+builds
+DerivedData
+developer.marvel.com.txt
